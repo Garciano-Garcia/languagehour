@@ -2,7 +2,7 @@ export const links = {
   website: 'https://www.languagehours.com/',
   whatsapp: 'https://wa.me/244954858822',
   email: 'mailto:languagehours@gmail.com',
-  portal: 'https://www.languagehours.com/portal-do-estudante',
+  portal: '/portal-do-estudante',
 }
 
 export function whatsappLink(message) {
